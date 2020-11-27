@@ -16,14 +16,12 @@ https://www.iconfinder.com/Makoto_msk */}
           <img src={logo} alt="store" className="navbar-brand"></img>
         </Link>
 
-        <ul className="navbar-nav align-items-center">
-          <li className="nav-item ml-5">
+        
             <a href="https://condescending-ride-2b8940.netlify.app/">
               GPU Store
           </a>
 
-          </li>
-          </ul>
+         
 
         <ul className="navbar-nav align-items-center">
           <li className="nav-item ml-5">
